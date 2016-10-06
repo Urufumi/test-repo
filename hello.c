@@ -4,3 +4,5 @@
 void main() {
 	printf("Hello, World! :D \n");
 }
+
+/* add second comment */
